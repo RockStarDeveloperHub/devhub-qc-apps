@@ -9,15 +9,4 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: team-name  # Replace with your team name
----
-apiVersion: backstage.io/v1alpha1
-kind: Location
-metadata:
-  name: devhub-qc-apps-location
-  description: Location for DevHub QC Apps
-spec:
-  targets:
-    - url: "https://github.com/RockStarDeveloperHub/devhub-qc-apps"
-      type: github  
-
+  owner: aws
