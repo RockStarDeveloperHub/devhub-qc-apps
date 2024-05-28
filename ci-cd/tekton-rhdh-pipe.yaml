@@ -18,8 +18,7 @@ metadata:
   name: devhub-qc-apps-location
   description: Location for DevHub QC Apps
 spec:
-  target:
-     target: "https://github.com/RockStarDeveloperHub/devhub-qc-apps/blob/main/ci-cd/pipeline.yaml"
+    target: "https://github.com/RockStarDeveloperHub/devhub-qc-apps/blob/main/ci-cd/pipeline.yaml"
     type: url
 ---
 
