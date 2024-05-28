@@ -27,6 +27,6 @@ metadata:
   description: Location for DevHub QC Apps
 spec:
   targets:
-    - url: https://github.com/RockStarDeveloperHub/devhub-qc-apps
+    - url: "https://github.com/RockStarDeveloperHub/devhub-qc-apps"
       type: github  
 
