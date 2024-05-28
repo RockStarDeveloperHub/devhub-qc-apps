@@ -20,7 +20,7 @@ metadata:
 spec:
   targets:
     - url: "https://github.com/RockStarDeveloperHub/devhub-qc-apps"
-      type: github  
+      type: url  
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Location
